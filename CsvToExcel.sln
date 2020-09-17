@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToExcel", "src\CsvToExcel\CsvToExcel.csproj", "{B1CC47A6-1622-48BC-A1CD-CD9142A228A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7AE3AD2-093C-4A39-A733-7C9E850425C7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CC47A6-1622-48BC-A1CD-CD9142A228A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CC47A6-1622-48BC-A1CD-CD9142A228A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CC47A6-1622-48BC-A1CD-CD9142A228A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CC47A6-1622-48BC-A1CD-CD9142A228A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FFED2B-D265-4105-A811-9C47C0B641F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CsvDef>
+  <HasHeader>true</HasHeader>
+  <HasFooter>true</HasFooter>
+  <SkipRowNumber>2</SkipRowNumber>
+  <Encoding>Shift-jis</Encoding>
+</CsvDef>

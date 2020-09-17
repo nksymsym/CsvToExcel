@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExcelDef>
+  <IsMultipleSheets>false</IsMultipleSheets>
+  <HasTitle>true</HasTitle>
+  <HasTitleExt>false</HasTitleExt>
+  <IsTitleBold>true</IsTitleBold>
+  <IsHeaderBold>false</IsHeaderBold>
+  <IsDataBold>false</IsDataBold>
+  <IsFooterBold>false</IsFooterBold>
+  <HeaderBgColor>Yellow</HeaderBgColor>
+  <DataBgColor>NoColor</DataBgColor>
+  <FooterBgColor>NoColor</FooterBgColor>
+  <LeadingColumns>3</LeadingColumns>
+  <LeadingRows>1</LeadingRows>
+</ExcelDef>

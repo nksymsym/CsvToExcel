@@ -1,26 +1,23 @@
 # CsvToExcel
 
-csv‚ğExcel‚É“\‚è•t‚¯‚Ä•\‚ğ‚¢‚¢Š´‚¶‚É‚·‚é‚â‚Â
+csvã‚’Excelã«è²¼ã‚Šä»˜ã‘ã¦è¡¨ã‚’ã„ã„æ„Ÿã˜ã«ã™ã‚‹ã‚„ã¤
 
-## ‚¢‚é
+## ã„ã‚‹
 
 .NET Framework 4.7.2
 
-## g‚¢•û
+## ä½¿ã„æ–¹
 
-set pg="exe‚ÌƒpƒX"
-set csvDir="csvƒtƒ@ƒCƒ‹‚Ì‚ ‚éƒfƒBƒŒƒNƒgƒŠ"
-set excelDir="excelƒtƒ@ƒCƒ‹‚ğo—Í‚·‚éƒfƒBƒŒƒNƒgƒŠ"
-set nameBase="excelƒtƒ@ƒCƒ‹‚Ìƒx[ƒX•”•ªi¦Œã‚ë‚Éƒ^ƒCƒ€ƒXƒ^ƒ“ƒv‚ÆŠg’£q‚ª•t‚«‚Ü‚·j"
+```
+set pg="exeã®ãƒ‘ã‚¹"
+set csvDir="csvãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª"
+set excelDir="excelãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‡ºåŠ›ã™ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª"
+set nameBase="excelãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ™ãƒ¼ã‚¹éƒ¨åˆ†ï¼ˆâ€»å¾Œã‚ã«ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ã¨æ‹¡å¼µå­ãŒä»˜ãã¾ã™ï¼‰"
 %pg% %csvDir% %excelDir% %nameBase%
+```
 
-## g‚Á‚½
+## ä½¿ã£ãŸ
 
-ClosedXML
-https://www.nuget.org/packages/ClosedXML/
-
-DocumentFormat.OpenXml
-https://www.nuget.org/packages/DocumentFormat.OpenXml/
-
-ExcelNumberFormat
-https://www.nuget.org/packages/ExcelNumberFormat/
+- ClosedXML https://www.nuget.org/packages/ClosedXML/
+- DocumentFormat.OpenXml https://www.nuget.org/packages/DocumentFormat.OpenXml/
+- ExcelNumberFormat https://www.nuget.org/packages/ExcelNumberFormat/

@@ -11,6 +11,18 @@ namespace CsvToExcel.Models
     public class ExcelDef
     {
         /// <summary>
+        /// フォント名
+        /// </summary>
+        [XmlElement("FontName")]
+        public string FontName { get; set; } = "ＭＳ Ｐゴシック";
+
+        /// <summary>
+        /// フォントサイズ
+        /// </summary>
+        [XmlElement("FontSize")]
+        public double FontSize { get; set; } = 10.5f;
+
+        /// <summary>
         /// シートを分けるかどうか
         /// </summary>
         [XmlElement("IsMultipleSheets")]
